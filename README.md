@@ -36,7 +36,7 @@ d)尝试把本次实验的多个类放置在不同的包中，体会修饰符pri
  pc.show();
    ```
 # 四.实验结果
-![]（https://github.com/buruopeng/java/blob/main/4b5160b65c6c5e911fb20e51e926089.png ）
+![](https://github.com/buruopeng/java/blob/main/4b5160b65c6c5e911fb20e51e926089.png "")
 # 五.实验感想
 通过本次实验，我学会建立构造方法，定义属性，使用set给变量赋值，通过get用show()方法输出，用private封装类，学会用if语句，用this关键词，也学会了创建对象，也提升了写代码的能力，更加深了学习java的兴趣，更能享受编程带给我的快乐。
 
